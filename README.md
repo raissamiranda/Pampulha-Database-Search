@@ -3,4 +3,4 @@ SQL search on the Resident's Perception Survey of Belo Horizonte about Complexo 
 
 ## Execution
 To execute the file in google colab, it's necessary to add the sql file in the path
->'/tmp/PesquisaPampulha.sql'
+>/tmp/PesquisaPampulha.sql
